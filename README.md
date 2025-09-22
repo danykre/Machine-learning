@@ -1,7 +1,7 @@
 # 📊 Proyecto Final – Data Science II (CoderHouse)
 
 ## 📌 Descripción
-Este proyecto tiene como objetivo predecir el **Precio_Total de ventas** de la empresa ficticia **Digital Soluciones S.A.**  
+Este proyecto tiene como objetivo predecir el **Precio_Total de ventas** de la empresa **Digital Soluciones S.A.**  
 Se aplicó un flujo completo de **Data Science**: limpieza de datos, análisis exploratorio (EDA), preprocesamiento, modelado y optimización de modelos de regresión lineal.  
 
 El trabajo fue realizado en el marco del curso **Data Science II de CoderHouse (Comisión #67485)**.
